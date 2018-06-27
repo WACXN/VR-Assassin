@@ -34,6 +34,9 @@ Content/ParagonProps/*
 Content/ParagonShinbi/*
 Content/KiteDemo/*
 Content/SampleMap/*
+<<<<<<< HEAD
+Content/Unreal-Models/*
+=======
 Content/KiteDemo/*
 Content/Props/*
 Content/Particles/*
@@ -41,3 +44,4 @@ Content/Materials/*
 Content/Textures/*
 Content/Materials/*
 Content/Maps/*
+>>>>>>> 2a4e09175edfd479b0f0ba27ad79332c07515fb4
